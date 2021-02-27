@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bavithran/static/css/main.fb4cc513.chunk.css",
+    "main.js": "/bavithran/static/js/main.4ca3c35f.chunk.js",
+    "main.js.map": "/bavithran/static/js/main.4ca3c35f.chunk.js.map",
+    "runtime-main.js": "/bavithran/static/js/runtime-main.6c4ff69d.js",
+    "runtime-main.js.map": "/bavithran/static/js/runtime-main.6c4ff69d.js.map",
+    "static/js/2.9729d51d.chunk.js": "/bavithran/static/js/2.9729d51d.chunk.js",
+    "static/js/2.9729d51d.chunk.js.map": "/bavithran/static/js/2.9729d51d.chunk.js.map",
+    "index.html": "/bavithran/index.html",
+    "static/css/main.fb4cc513.chunk.css.map": "/bavithran/static/css/main.fb4cc513.chunk.css.map",
+    "static/js/2.9729d51d.chunk.js.LICENSE.txt": "/bavithran/static/js/2.9729d51d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/bavithran/static/media/BG.d9092ba7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4ff69d.js",
+    "static/js/2.9729d51d.chunk.js",
+    "static/css/main.fb4cc513.chunk.css",
+    "static/js/main.4ca3c35f.chunk.js"
+  ]
+}
