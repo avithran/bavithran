@@ -104,7 +104,7 @@ export default class NavBar extends React.Component {
       window.addEventListener("keypress",this.keyPressed),
       <div className="top-class">
         <div id="top-nav"className="topnav" style={style_0}>
-        <img className="logoclass" id="logimg" src= "./dummies_man_yellow_black_rule.png" alt="helloo"/>
+        <img className="logoclass" id="logimg" src= "bavithran/dummies_man_yellow_black_rule.png" alt="helloo"/>
         <a id ="txt-col-1"className="class-name" style={style_0} >BAVITHRAN</a>
         <a id="txt-col-2" className="active" href="#home"  onMouseEnter={this.onMouseEnter} onMouseLeave={this.onMouseLeave} style={style_1}>Home</a>
         <a id="txt-col-3" href="#news" onMouseEnter={this.onMouseEnter} onMouseLeave={this.onMouseLeave} style={style_2}>News</a>
